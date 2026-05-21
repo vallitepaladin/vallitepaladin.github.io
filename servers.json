@@ -41,9 +41,9 @@
             "address": "http://clamantes.local:6969"
         },
         {
-            "name": "Juniper's Server"
+            "name": "Juniper's Server",
             "address": "https://ani.celestiancat.com"
-        }
+        },
         {
             "name": "iDH Server",
             "address": "https://ani.idevicehacked.com"
